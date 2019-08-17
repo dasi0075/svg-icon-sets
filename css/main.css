@@ -7,3 +7,20 @@ html {
 .i-192 {
   color: #fff;
 }
+
+body {
+  background-image: linear-gradient(to top, #ff5e3a, #ff9500);
+}
+
+.btn-ghost {
+text-decoration: none;
+border: 2px solid #fff;
+border-radius: 8px;
+color: #fff;
+padding: .5em;
+}
+
+.btn:hover {
+background-color: #fff;
+border-color: #fff;
+}
