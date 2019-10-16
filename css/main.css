@@ -25,6 +25,10 @@ background-color: #fff;
 border-color: #fff;
 }
 
-.space-bubbles {
+.space-bubbles, .super-domes {
   border-right: solid 2px #fff;
+}
+
+@media only screen and (min-width: 60em) {
+
 }
