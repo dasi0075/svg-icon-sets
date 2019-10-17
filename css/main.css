@@ -13,16 +13,16 @@ body {
 }
 
 .btn-ghost {
-text-decoration: none;
-border: 2px solid #fff;
-border-radius: 8px;
-color: #fff;
-padding: .5em;
+  text-decoration: none;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  color: #fff;
+  padding: .5em;
 }
 
 .btn:hover {
-background-color: #fff;
-border-color: #fff;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .space-bubbles, .super-domes {
