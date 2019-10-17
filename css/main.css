@@ -34,11 +34,6 @@ body {
   .space-bubbles,
   .super-domes {
     border-bottom: hidden;
-    border-color: rgba(0, 0, 0, 0);
-  }
-
-  .space-bubbles,
-  .super-domes {
     border-right: solid 2px;
     border-color: rgba(255, 255, 255, 0.5);
   }
